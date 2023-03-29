@@ -50,7 +50,7 @@ func (m Migrator) DropTable(values ...interface{}) error {
 		return nil
 	})
 
-	return nil
+	// return nil
 }
 
 func (m Migrator) HasColumn(value interface{}, name string) bool {
