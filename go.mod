@@ -1,4 +1,4 @@
-module github.com/open-olive/gorm-sqlcipher
+module github.com/UnicornGroup/gorm-sqlcipher
 
 go 1.20
 
