@@ -1,9 +1,8 @@
 module github.com/open-olive/gorm-sqlcipher
 
-go 1.14
+go 1.20
 
 require (
-	github.com/mattn/go-sqlite3 v1.14.6
-	github.com/mutecomm/go-sqlcipher/v4 v4.4.2 // indirect
-	gorm.io/gorm v1.20.11
+	github.com/mutecomm/go-sqlcipher/v4 v4.4.2
+	gorm.io/gorm v1.24.6
 )
